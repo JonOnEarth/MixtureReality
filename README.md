@@ -1,20 +1,21 @@
-Collect the Papers and some materials related to cybersickness in MR, VR, XR
+Collection of papers and materials related to cybersickness in MR, VR, XR
 
 ## MR, VR, XR... with Cybersickness, tutorials and papers
 - [Cybersickness in a Virtual and Mixed Reality Flight Simulator With a Video See-Through Head-Mounted Display](https://www.diva-portal.org/smash/get/diva2:1820233/FULLTEXT01.pdf#page=24.13) 2023.10
-> factors
-
+  > Give the cybersickness factors in VR and MR and their difference
+  
 - [FACTORS IMPACTING CYBERSICKNESS](https://lib.iitta.gov.ua/id/eprint/729263/1/TR-HFM-MSG-323-ALL-73-120.pdf)
 
 - [An Overview of Cybersickness Self-Report Measures for use in Defence Research and Development Canada Experiments](https://cradpdf.drdc-rddc.gc.ca/PDFS/unc467/p814963_A1b.pdf) 2022
+  > Sickness state assessment methods: SSQ, VRSQ, FMS...
 
 - [Comparing cybersickness in virtual reality and mixed reality head-mounted displays
 ](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2023.1130864/full) 2023
-> Definition of cybersickness in VR and MR and more
+  > Definition of cybersickness in VR and MR and more
 
 - [Blog: MOTION SICKNESS IN VR](https://varjo.com/learning-hub/motion-sickness/)
   
-## Papers with models
+## Papers with modeling, classification methods
 - [Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals
 ](https://ieeexplore.ieee.org/abstract/document/9284761) 2020
   > 1.Propose a physiological dataset including HR, BR, HRV, and GSR for CS study; 2.Investigate the correlation between the physiological signals and the subjective feedback reported by the participants; 3.Compare between various machine learning (ML) and deep learning (DL) approaches for detecting and predicting CS severity from the previous two minutes of physiological signals. 4. Propose a simplified stacked CNN-LSTM model for detecting and predicting CS with improved performance.
