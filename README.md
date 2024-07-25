@@ -1,18 +1,32 @@
-# MixtureReality
-Papers and some materials related
+# MixtureReality with Cybersickness
+collect the Papers and some materials related to cybersickness
 
-# Papers & dataset & code
+## Papers
+- [Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals
+](https://ieeexplore.ieee.org/abstract/document/9284761) 2020
+  > 1.Propose a physiological dataset including HR, BR, HRV, and GSR for CS study; 2.Investigate the correlation between the physiological signals and the subjective feedback reported by the participants; 3.Compare between various machine learning (ML) and deep learning (DL) approaches for detecting and predicting CS severity from the previous two minutes of physiological signals. 4. Propose a simplified stacked CNN-LSTM model for detecting and predicting CS with improved performance.
 
-[TOC]
+- [Towards Forecasting the Onset of Cybersickness by Fusing Physiological, Head-tracking and Eye-tracking with Multimodal Deep Fusion Network
+](https://ieeexplore.ieee.org/document/9995267) 2022
+
+- [Investigating Personalization Techniques for Improved Cybersickness Prediction in Virtual Reality Environments
+](https://ieeexplore.ieee.org/document/10458344) 2024
+
+
+
 
 ## Dataset
-- [VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research](https://arxiv.org/pdf/2306.03381v1) [code](https://github.com/augmented-human-lab/vr-motion-sickness-modelling)
+- [VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research](https://arxiv.org/pdf/2306.03381v1) [code](https://github.com/augmented-human-lab/vr-motion-sickness-modelling) 2023
   > The dataset comprises data from 1,000 game sessions, of which 814 are currently available. Approximately 80% of these sessions are from Metaworld (Horizon), while the remaining 20% cover a variety of popular computer games. Each session lasts for a minimum of 12 minutes, providing a rich set of data for analysis. 
+
+- [SAVE lab](https://sites.google.com/view/savelab/research)
+  > The SAVE lab conducts research in virtual, augmented, and mixed reality. Our current projects focus on cybersickness prediction/ reduction, accessibility and rehabilitation for persons with disabilities, and immersive language learning.
+
 
 
 
 ## Tools
-- [OpenVR SDK](https://github.com/ValveSoftware/openvr):
+- [OpenVR SDK](https://github.com/ValveSoftware/openvr)
   > OpenVR is an API and runtime that allows access to VR hardware from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting. This repository is an SDK that contains the API and samples. The runtime is under SteamVR in Tools on Steam.
 
 - 
