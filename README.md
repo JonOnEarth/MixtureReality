@@ -18,6 +18,9 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 - [Cybersickness and Its Severity Arising from Virtual Reality Content: A Comprehensive Study
 ](https://www.mdpi.com/1424-8220/22/4/1314) 2022
   > cybersickness attributed to VR content, such as background of scene, camera movement,...FOV. Can measure by SSQ,MSSQ and objectively measure by physiological signals: EEG, ECG...
+
+- [Latency and Cybersickness: Impact, Causes, and Measures. A Review
+](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.582204/full) 2020
   
 ## Papers with modeling, classification methods
 - [Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals
