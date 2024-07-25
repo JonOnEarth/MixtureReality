@@ -47,7 +47,7 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 
 
 ## Dataset
-- [VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research](https://arxiv.org/pdf/2306.03381v1) [code](https://github.com/augmented-human-lab/vr-motion-sickness-modelling) 2023
+- [VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research](https://arxiv.org/pdf/2306.03381v1), [code](https://github.com/augmented-human-lab/vr-motion-sickness-modelling) 2023
   > The dataset comprises data from 1,000 game sessions, of which 814 are currently available. Approximately 80% of these sessions are from Metaworld (Horizon), while the remaining 20% cover a variety of popular computer games. Each session lasts for a minimum of 12 minutes, providing a rich set of data for analysis. 
 
 - [SAVE lab](https://sites.google.com/view/savelab/research)
