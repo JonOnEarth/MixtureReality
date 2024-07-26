@@ -65,6 +65,8 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 - [OpenVR SDK](https://github.com/ValveSoftware/openvr)
   > OpenVR is an API and runtime that allows access to VR hardware from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting. This repository is an SDK that contains the API and samples. The runtime is under SteamVR in Tools on Steam.
 
+- [VRQuestionnaireToolkit](https://github.com/MartinFk/VRQuestionnaireToolkit/tree/master)
+  >The VRQuestionnaireToolkit repository offers an open-source toolkit designed to streamline the assessment of subjective measurements in Virtual Reality. It includes a user-friendly Unity3D package that can be integrated into existing projects, supporting questionnaires before, during, and after studies. This toolkit is provided under an MIT License.
 - 
 
 
