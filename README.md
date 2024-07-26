@@ -44,6 +44,8 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 - [Machine learning methods for the study of cybersickness: a systematic review
 ](https://link.springer.com/article/10.1186/s40708-022-00172-6) 2022.10
 
+- [Modeling and Defense of Social Virtual Reality Attacks Inducing Cybersickness
+](https://ieeexplore.ieee.org/abstract/document/9580681?casa_token=iDktR17b1l0AAAAA:_E1BXbPDoLJ8W3aXXiPKjT8T-eetr9fBbpwj7Xit0D_7qAuwn9fEPPZvj9J9R9gIrKpPz_1w) 2022
 
 
 
