@@ -21,6 +21,10 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 
 - [Latency and Cybersickness: Impact, Causes, and Measures. A Review
 ](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.582204/full) 2020
+
+- [Don’t make me sick: investigating the incidence of cybersickness in commercial virtual reality headsets
+](https://link.springer.com/article/10.1007/s10055-019-00401-0) 2019.08
+
   
 ## Papers with modeling, classification methods
 - [Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals
@@ -47,8 +51,18 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 - [Modeling and Defense of Social Virtual Reality Attacks Inducing Cybersickness
 ](https://ieeexplore.ieee.org/abstract/document/9580681?casa_token=iDktR17b1l0AAAAA:_E1BXbPDoLJ8W3aXXiPKjT8T-eetr9fBbpwj7Xit0D_7qAuwn9fEPPZvj9J9R9gIrKpPz_1w) 2022
 
+## Attacks in VR, MR, XR
+- [Modeling and Defense of Social Virtual Reality Attacks Inducing Cybersickness
+](https://ieeexplore.ieee.org/abstract/document/9580681?casa_token=iDktR17b1l0AAAAA:_E1BXbPDoLJ8W3aXXiPKjT8T-eetr9fBbpwj7Xit0D_7qAuwn9fEPPZvj9J9R9gIrKpPz_1w) 2021.10
+  > Cybersickness Induction: The attacker manipulates technical aspects like latency and frame rate in Social VR, inducing motion sickness in users.
 
+- [Immersive Virtual Reality Attacks and the Human Joystick
+](https://ieeexplore.ieee.org/document/8675340) 2019.03
+  >  The authors present a series of novel attack strategies designed to exploit the immersive nature of these systems. 1). Human Joystick Attack: The attacker subtly shifts the user’s virtual environment, causing the user to unknowingly move in the real world. 2). Chaperone Attack: The attacker alters the VR boundary settings, leading users to move dangerously close to real-world obstacles. 3). Disorientation Attack: The attacker manipulates the user’s orientation in VR, causing dizziness and confusion. 4). Overlay Attack: The attacker forces unwanted images or videos into the user's field of view in VR, which cannot be removed. 5). Camera Attack: The attacker remotely activates the VR headset's camera, spying on the user’s physical surroundings.
 
+- [A Survey and Risk Assessment on Virtual and Augmented Reality Cyberattacks](https://ieeexplore.ieee.org/document/10180290) 2023.07
+
+- 
 
 
 ## Dataset
