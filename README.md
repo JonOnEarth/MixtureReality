@@ -25,7 +25,9 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 - [Don’t make me sick: investigating the incidence of cybersickness in commercial virtual reality headsets
 ](https://link.springer.com/article/10.1007/s10055-019-00401-0) 2019.08
 
-  
+## Cybersickness: Research Topics/Magazine:
+- [Cybersickness in VR applications](https://www.frontiersin.org/research-topics/30494/cybersickness-in-vr-applications/magazine)
+- 
 ## Papers with modeling, classification methods
 - [Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals
 ](https://ieeexplore.ieee.org/abstract/document/9284761) 2020
