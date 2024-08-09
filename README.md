@@ -28,6 +28,7 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 ## Cybersickness: Research Topics/Magazine:
 - [Cybersickness in VR applications](https://www.frontiersin.org/research-topics/30494/cybersickness-in-vr-applications/magazine)
 - [Cybersickness in Virtual Reality Versus Augmented Reality](https://www.frontiersin.org/research-topics/12692/cybersickness-in-virtual-reality-versus-augmented-reality#:~:text=Cybersickness%20has%20been%20referred%20to%20as%20the%20%E2%80%9Celephant,AR%20exposure%20typically%20results%20in%20an%20O%3ED%3EN%20profile.)
+  > 1. This manuscript contains informative articles about cybersickness in VR and AR. A valuable text for literature review.
 - 
 ## Papers with modeling, classification methods
 - [Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals
