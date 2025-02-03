@@ -89,3 +89,5 @@ Collection of papers and materials related to cybersickness in MR, VR, XR
 
 
 
+## BN Modeling
+- [BN Flow](https://arxiv.org/pdf/2007.06823)
